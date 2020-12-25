@@ -1,0 +1,6 @@
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\bin\Debug\oop6.exe.config
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\bin\Debug\oop6.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\bin\Debug\oop6.pdb
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\obj\Debug\oop6.csprojAssemblyReference.cache
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\obj\Debug\oop6.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop6\oop6\obj\Debug\oop6.pdb

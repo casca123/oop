@@ -1,0 +1,6 @@
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\bin\Debug\oop7.exe.config
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\bin\Debug\oop7.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\bin\Debug\oop7.pdb
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\obj\Debug\oop7.csprojAssemblyReference.cache
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\obj\Debug\oop7.exe
+C:\Leo\Учеба\5 семестра\ооп\лабы\oop7\oop7\obj\Debug\oop7.pdb
